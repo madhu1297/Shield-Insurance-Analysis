@@ -1,7 +1,7 @@
 # Shield-Insurance-Analysis
 This project is a part of the virtual Internship at AtliQ Technologies.
 
-[Power BI Dashboard](https://app.powerbi.com/links/9KWmLBJvBN?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShareurl)
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTE1ZGUwYjYtNmU4YS00MjdhLWEyMjAtZjBlMjNjNWQyYWRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## PROJECT OVERVIEW -
 
