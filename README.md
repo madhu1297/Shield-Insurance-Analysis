@@ -23,21 +23,29 @@ This project will help them evaluate how effectively we can meet their requireme
 
 - Fact_settlements
 
-![Alt Text](image_file_name.png)
+![data_model_shield](https://github.com/user-attachments/assets/9fd723b1-f310-4166-bd46-ac8d20c4fb0c)
+
 
 ## Dashboard Overview -
 I created a dashboard with three key sections:
 
 **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
-image
+
+![home_sheild1](https://github.com/user-attachments/assets/287d1445-4011-4487-a654-08002886f86a)
+
 
 **General Analysis -** Provides a high-level summary of revenue and customer distribution with monthly trends to monitor overall growth.
 
-image
+![General_shield](https://github.com/user-attachments/assets/378f4772-416c-4316-9427-8b1c59b627e6)
+
 
 **Sales Mode Analysis -** Offers insights into revenue and customer data across different sales modes to assess their performance.
 
+![sales_shield](https://github.com/user-attachments/assets/2443acd7-0c5c-456c-aaf3-2dee8ea99b5e)
+
 **Age Group Analysis -** Analyzes policy sales and revenue by age group to highlight the most valuable customer segments.
+
+![age_shield](https://github.com/user-attachments/assets/1754d6cc-6e5d-46af-9844-968fed552bd7)
 
 ## Insights -
 1. Revenue and Customer Trends: March 2023 recorded the highest revenue and customers, while November 2022 saw the lowest daily revenue and customer growth.
